@@ -1,5 +1,3 @@
-import 'package:google_fonts/google_fonts.dart';
-
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:payflow/shared/themes/app_colors.dart';
@@ -94,7 +92,7 @@ class TextStyles {
     fontSize: 13,
     fontWeight: FontWeight.w400,
     color: AppColors.body,
-  );  
+  );
   static final captionBoldBackground = GoogleFonts.lexendDeca(
     fontSize: 13,
     fontWeight: FontWeight.w600,
@@ -104,7 +102,7 @@ class TextStyles {
     fontSize: 13,
     fontWeight: FontWeight.w600,
     color: AppColors.shape,
-  );  
+  );
   static final captionBoldBody = GoogleFonts.lexendDeca(
     fontSize: 13,
     fontWeight: FontWeight.w600,
